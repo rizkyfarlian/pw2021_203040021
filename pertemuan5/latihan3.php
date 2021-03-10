@@ -21,7 +21,7 @@ $mahasiswa = [
 
 
 <?php foreach ( $mahasiswa as $mhs) : ?>
-<ul>
+<ul>e
 	<li>nama :<?= $mhs [0]; ?></li>
 	<li>nrp :<?= $mhs [1]; ?></li>
 	<li>jurusa :<?= $mhs [2]; ?></li>
